@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #88D4CF;
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+}
+
+canvas {
+    font-size: 32px;
+    display: block;
+    border: 3px solid rgba(165, 42, 42, 0.5) ;
+    box-shadow: 0 0 5px 5px rgba(165, 42, 42, 0.1) ;
+}
